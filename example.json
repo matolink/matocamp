@@ -1,0 +1,26 @@
+[
+  {
+    "titulo": "necesito un fronted re crack",
+    "descripcion": "somos una enpresa muy bonita",
+    "cargo": "junior",
+    "modalidad": "remoto"
+  },
+  {
+    "titulo": "backend node",
+    "descripcion": "quiero un crack",
+    "cargo": "senior",
+    "modalidad": "full time"
+  },
+  {
+    "titulo": "backend Ror",
+    "descripcion": "aaaaaaaaaaaaaaaaaaaaaa",
+    "cargo": "semi-senior",
+    "modalidad": "full time"
+  },
+  {
+    "titulo": "maquetador html",
+    "descripcion": "necesito un perkin",
+    "cargo": "practicante",
+    "modalidad": "part time"
+  }
+]
