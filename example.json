@@ -1,23 +1,27 @@
 [
   {
+    "id": "1",
     "titulo": "necesito un fronted re crack",
     "descripcion": "somos una enpresa muy bonita",
     "cargo": "junior",
     "modalidad": "remoto"
   },
   {
+    "id": "2",
     "titulo": "backend node",
     "descripcion": "quiero un crack",
     "cargo": "senior",
     "modalidad": "full time"
   },
   {
+    "id": "3",
     "titulo": "backend Ror",
     "descripcion": "aaaaaaaaaaaaaaaaaaaaaa",
     "cargo": "semi-senior",
     "modalidad": "full time"
   },
   {
+    "id": "4",
     "titulo": "maquetador html",
     "descripcion": "necesito un perkin",
     "cargo": "practicante",
