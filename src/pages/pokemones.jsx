@@ -24,6 +24,7 @@ return (<div>
     <img src={pokemon.imagen} />
     <input type="number" name="" id="" onChange={(eve) => setInputUser(eve.target.value ? eve.target.value : 1)} />
     <button>go</button>
+    <h1>wena rolito en docker men</h1>
 </div>);
 }
 
