@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+  pokemones-web:
+    image: nginx:1.20
+    ports:
+      - 8080:80
+    volumes:
+      - ./out:/usr/share/nginx/html:ro
+
