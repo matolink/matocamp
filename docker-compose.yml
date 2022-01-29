@@ -4,5 +4,8 @@ services:
   pokemones-web:
     build: .
     ports:
-      - 8080:3000
+      - 8080:80
+    volumes:
+      - ./src:/app/src/
+      - ./example.json:/app/example.json
 
